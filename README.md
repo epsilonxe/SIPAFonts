@@ -1,3 +1,3 @@
 # SIPA Fonts
 
-ด้วยกรมทรัพย์สินทางปัญญา ร่วมกับสำนักงานส่งเสริมอุตสาหกรรมซอฟต์แวร์แห่งชาติ (องค์การมหาชน) ได้จัดโครงการประกวดผลงานสร้างสรรค์โปรแกรมคอมพิวเตอร์ฟอนต์ขึ้น เพื่อส่งเสริมให้มีการพัฒนาและสร้างสรรค์ผลงานลิขสิทธิ์โปรแกรมคอมพิวเตอร์ฟอนต์เพิ่มขึ้น เป็นการสร้างงาน สร้างทักษะ และสร้างตลาดทางด้านอุตสาหกรรมซอฟต์แวร์ของประเทศ อันจะเป็นประโยชน์ต่อสังคมและผู้บริโภคที่สามารถเลือกใช้โปรแกรมคอมพิวเตอร์ฟอนต์ที่มีความหลากลายมากขึ้นต่อไป
+Thai National fonts, or colloquially SIPA fonts, are a group of Thai-Roman fonts distributed and used by the Government of Thailand as public and official fonts after they won a national competition held in 2007. The fonts and all of their subsequently developed versions are released by the Software Industry Promotion Agency (Public Organisation), or SIPA, together with the Department of Intellectual Property through f0nt.com, and can be downloaded freely on the website.
